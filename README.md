@@ -1,5 +1,5 @@
-- 👋 Hi, I’myidnekachew
-- 👀 I’m interested in web development and IT support engineer...
+- 👋 Hi, I’m Yidnekachew
+- 👀 I’m interested in web end development...
 - 🌱 I’m currently learning laravel and TS
 - 💞️ ..
 
