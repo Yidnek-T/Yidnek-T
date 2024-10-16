@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🌱 **Currently Learning:** Full-Stack Development with a focus on **JavaScript**, **Node.js**, and **React** and ** Laravel**.
+- 🌱 **Currently Learning:** Full-Stack Development with a focus on **JavaScript**, **Node.js**, **React** and ** Laravel**.
 - 💻 **Building Projects:** I’m focusing on project-based learning to master full-stack web development.
 - 🎯 **Goal:** To become a certified **Full-Stack Developer** in the next 6 months, building real-world projects that make a difference.
 - 💬 **Ask me about:** IT support, JavaScript, and how to get started with web development.
@@ -13,8 +13,8 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Learning Node.js, Express
+- **Frontend:** HTML, CSS, JavaScript, ReactJS
+- **Backend:** Learning Node.js, Express, Laravel and Go
 - **Databases:** Basic knowledge of MongoDB, SQL
 - **Version Control:** Git, GitHub
 - **Other Tools:** AnyDesk, TeamViewer, VS Code
